@@ -1,0 +1,29 @@
+.img {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    color:deepskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.links {
+    background-color: firebrick;
+}
+
+h2 {
+    color:pink;
+    text-align: left;
+}
+
+li {
+    color:greenyellow;
+    font-family:'Courier New', Courier, monospace;
+    font-size:10px;
+}
+
+.back {
+    color: pink;
+    background-color: purple;
+}
